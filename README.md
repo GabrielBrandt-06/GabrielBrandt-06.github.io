@@ -1,3 +1,3 @@
 # Portfólio
 
-https://GabrielBrandt-06.github.io/
+https://gabrielbrandt06.github.io/
